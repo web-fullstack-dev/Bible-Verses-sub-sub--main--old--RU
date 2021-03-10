@@ -29,6 +29,16 @@
   transform: scale(1.1);
 }
 
+.section__h1--violet {
+  background-color: hsl(300, 76%, 72%);
+}
+
+.section__h1--violet:active {
+  background-color: hsl(300, 76%, 62%);
+  transform: scale(1.1);
+}
+
+
 .section__h1--orange {
   background-color: hsl(39, 100%, 50%);
 }
