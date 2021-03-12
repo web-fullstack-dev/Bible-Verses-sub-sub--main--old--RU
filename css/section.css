@@ -55,7 +55,7 @@
 .section__button {
   background-color: hsl(0, 0%, 83%);
   border-style: none;
-  font-size: 22px;
+  font-size: 14px;
   padding: 8px;
   margin: 5px;
   cursor: context-menu; 
